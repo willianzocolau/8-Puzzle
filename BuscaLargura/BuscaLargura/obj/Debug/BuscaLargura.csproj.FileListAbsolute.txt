@@ -1,0 +1,9 @@
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.exe.config
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.exe
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\bin\Debug\BuscaLargura.pdb
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.Form1.resources
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.Properties.Resources.resources
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.csproj.GenerateResource.Cache
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.exe
+c:\users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.pdb
+C:\Users\willi\documents\visual studio 2017\Projects\BuscaLargura\BuscaLargura\obj\Debug\BuscaLargura.csprojResolveAssemblyReference.cache

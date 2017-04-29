@@ -1,0 +1,12 @@
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\bin\Debug\BuscaA.exe.config
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\bin\Debug\BuscaA.exe
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\bin\Debug\BuscaA.pdb
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\obj\Debug\BuscaA.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\obj\Debug\BuscaA.Form1.resources
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\obj\Debug\BuscaA.Properties.Resources.resources
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\obj\Debug\BuscaA.csproj.GenerateResource.Cache
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\obj\Debug\BuscaA.exe
+c:\users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\obj\Debug\BuscaA.pdb
+C:\Users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\bin\Debug\C5.dll
+C:\Users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\bin\Debug\C5.pdb
+C:\Users\willi\documents\visual studio 2017\Projects\BuscaA\BuscaA\bin\Debug\C5.xml

@@ -1,0 +1,9 @@
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\bin\Debug\BuscaProfundidade.exe.config
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\bin\Debug\BuscaProfundidade.exe
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\bin\Debug\BuscaProfundidade.pdb
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\obj\Debug\BuscaProfundidade.Form1.resources
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\obj\Debug\BuscaProfundidade.Properties.Resources.resources
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\obj\Debug\BuscaProfundidade.csproj.GenerateResource.Cache
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\obj\Debug\BuscaProfundidade.exe
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\obj\Debug\BuscaProfundidade.pdb
+C:\Users\willi\Documents\Visual Studio 2017\Projects\BuscaProfundidade\BuscaProfundidade\obj\Debug\BuscaProfundidade.csprojResolveAssemblyReference.cache
